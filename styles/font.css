@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Aeroport';
+    src: url('../fonts/Aeroport-Medium.woff2') format('woff2'),
+         url('../fonts/Aeroport-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Aeroport';
+    src: url('../fonts/Aeroport-Bold.woff2') format('woff2'),
+         url('../fonts/Aeroport-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'squartiqa';
+    src: url('../fonts/Squartiqa4FUltraLight.woff2') format('woff2'),
+         url('../fonts/Squartiqa4FUltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
